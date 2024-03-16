@@ -1,5 +1,4 @@
-![image](https://github.com/Vickeysaini/Online-Book-Store/assets/97670943/41d0d8b4-bc63-4a8d-b577-dda680a598cc)
-
+ONLINE BOOK STORE SYSTEM
 This simple project is a Simple Online Book Store System. This is a web-based application project developed in PHP and MySQL Database. 
 This project's main goal is to provide an automated and online Shop or Store for books.
 This can help the Book Stores or Book Shops to market or sell their book products online.
@@ -17,9 +16,14 @@ CSS
 JavaScript
 Bootstrap 5 Framework
 FontAwesome
-This Simple Online Book Store System Project is accessible to both the Public and the Shop's Management. The Public Site does not require any login or registration to the users or possible customers of the shop. They can simply explore all the available book products in the store. Users can also read some details about the book such as the publisher's name or etc. They can add their desired books to their shopping cart where they can place an order later. On the cart list, users can also update the quantity of the books they wanted to buy. On the "Checkout" page, users are required to fill the fields on the form shown below their cart items details and also the same on the "Payment Page".
+This Simple Online Book Store System Project is accessible to both the Public and the Shop's Management. The Public Site does not require any login
+or registration to the users or possible customers of the shop. They can simply explore all the available book products in the store. Users can also read some
+details about the book such as the publisher's name or etc. They can add their desired books to their shopping cart where they can place an order later. On the cart list,
+users can also update the quantity of the books they wanted to buy. On the "Checkout" page, users are required to fill the fields on the form shown
+below their cart items details and also the same on the "Payment Page".
 
-The Admin Panel on this project requires the user to log in with his or her valid administrator credentials to gain access to the features and functionalities. Here, the administrator can list all their books product, add new books, edit book details, and delete products.
+The Admin Panel on this project requires the user to log in with his or her valid administrator credentials to gain access to the features and functionalities. Here,
+the administrator can list all their books product, add new books, edit book details, and delete products.
 Features
 Administrator
 Login
@@ -62,4 +66,3 @@ Simple Online Book Store System
 Admin Site
 ![image](https://github.com/Vickeysaini/Online-Book-Store/assets/97670943/05954075-40a4-4601-8cd0-feb7ca9e7ca2)
 
-Simple Online Book Store System
