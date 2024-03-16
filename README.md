@@ -1,4 +1,5 @@
-ONLINE BOOK STORE SYSTEM
+                     ONLINE BOOK STORE SYSTEM
+                   
 This simple project is a Simple Online Book Store System. This is a web-based application project developed in PHP and MySQL Database. 
 This project's main goal is to provide an automated and online Shop or Store for books.
 This can help the Book Stores or Book Shops to market or sell their book products online.
@@ -45,8 +46,7 @@ Payment Form
 The source code was developed only for educational purposes only. You can download the source code for free and modify it the way you wanted.
 
 
-System Snapshots of some Features
-![image](https://github.com/Vickeysaini/Online-Book-Store/assets/97670943/c3ec30ac-b3c8-4b7e-9b07-779cc2217832)
+
 
 
 Simple Online Book Store System
