@@ -44,23 +44,30 @@ Checkout Form
 Payment Form
 The source code was developed only for educational purposes only. You can download the source code for free and modify it the way you wanted.
 
+
 System Snapshots of some Features
 ![image](https://github.com/Vickeysaini/Online-Book-Store/assets/97670943/c3ec30ac-b3c8-4b7e-9b07-779cc2217832)
 
+
+Simple Online Book Store System
 Public Home Page
 ![image](https://github.com/Vickeysaini/Online-Book-Store/assets/97670943/470a07da-393c-4d1c-bc92-3515a5813f1d)
+
 
 Simple Online Book Store System
 Public Book List
 ![image](https://github.com/Vickeysaini/Online-Book-Store/assets/97670943/f82a571e-c636-490e-a0cf-a27ad1ced778)
 
+
 Simple Online Book Store System
 Shopping Cart
 ![image](https://github.com/Vickeysaini/Online-Book-Store/assets/97670943/676fd558-da52-4546-b4d6-289a035ef0fd)
 
+
 Simple Online Book Store System
 Checkout Page
 ![image](https://github.com/Vickeysaini/Online-Book-Store/assets/97670943/252c1606-7799-4765-800b-251b05b1dfa1)
+
 
 Simple Online Book Store System
 Admin Site
